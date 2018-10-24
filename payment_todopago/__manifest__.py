@@ -22,8 +22,8 @@
     'category': 'Hidden',
     'summary': 'Payment Acquirer: TodoPago Implementation',
     'version': '11.0.1.0.0',
-    'author': 'Moldeo Interactive - www.moldeo.coop,ADHOC SA',
-    'website': 'www.adhoc.com.ar',
+    'author': 'Moldeo Interactive - www.moldeo.coop,ADHOC SA, VALSOL',
+    'website': 'www.valsol.com',
     'license': 'AGPL-3',
     'depends': [
         'payment',

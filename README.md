@@ -3,12 +3,12 @@
 [![Coverage Status](https://coveralls.io/repos/ingadhoc/website/badge.png?branch=11.0)](https://coveralls.io/r/ingadhoc/website?branch=11.0)
 [![Code Climate](https://codeclimate.com/github/ingadhoc/website/badges/gpa.svg)](https://codeclimate.com/github/ingadhoc/website)
 
-# ADHOC website
+# VALSOL website payment
 
-ADHOC Odoo website Payment Modules
+VALSOL website Payment Modules
 
-[//]: # (addons)
-[//]: # (end addons)
+* payment_mercadopago
+* payment_todopago
 
 Translation Status
 ------------------
@@ -16,5 +16,5 @@ Translation Status
 
 ----
 
-<img alt="ADHOC" src="http://fotos.subefotos.com/83fed853c1e15a8023b86b2b22d6145bo.png" />
-**Adhoc SA** - www.adhoc.com.ar
+<img alt="VALSOL" src="http://valsol.net/valsol/img/log/valsol/valsol_R_180x49.png" />
+**VALSOL** - www.valsol.com
